@@ -1,5 +1,5 @@
-# shopify-dubet
-this is a base theme of shopify called by dubet theme..
+# shopify-debut
+this is a base theme of shopify called by debut theme..
 
 I have represent 3 type's of product listing view solution on Product detail page
 
