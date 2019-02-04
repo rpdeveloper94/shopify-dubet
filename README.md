@@ -11,14 +11,19 @@ install free app of [oberlo]
 ```
 2)Goto oberalo deshboard and import Products as per your choice
 
-3)after added product to assign products categories and save Products
+3)after that assign selected products in categories (as your choice).
 
-4)create new file on sections dir.
+4)create new file from section directory.
 ***like this one***
 a)related-products.liquid {view for related products}
 b)recommended-products.liquid {view for recommanded products}
 
-5)now go to my sample code of related-products.liquid or recommended-products.liquid and copy the code and move to paste from your file.
+5)You must be check both files of My sample code from same directoy.
+
+```bash
+   shopify-dubet/sections/related-products.liquid
+   shopify-dubet/sections/recommended-products.liquid
+```
 
 6)Goto product.liquid file and included both of section file as your choice.
 
