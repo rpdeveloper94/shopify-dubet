@@ -21,8 +21,8 @@ b)recommended-products.liquid {view for recommanded products}
 5)You must be check both files of My sample code from same directoy.
 
 ```bash
-   shopify-dubet/sections/related-products.liquid
-   shopify-dubet/sections/recommended-products.liquid
+   shopify-debut/sections/related-products.liquid
+   shopify-debut/sections/recommended-products.liquid
 ```
 
 6)Goto product.liquid file and included both of section file as your choice.
