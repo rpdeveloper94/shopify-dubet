@@ -25,4 +25,4 @@ b)recommended-products.liquid {view for recommanded products}
 ***note:*** 
 	**we can handle to products as per requirement.***
 	***like size of products, view of products in row (add limit), add filters (vandor,variant objects) etc...***
-	(https://help.shopify.com/en/themes/liquid/objects/product)
+	https://help.shopify.com/en/themes/liquid/objects/product
